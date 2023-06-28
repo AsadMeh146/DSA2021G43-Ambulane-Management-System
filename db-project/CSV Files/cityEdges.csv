@@ -1,0 +1,61 @@
+Attock,Rawalpindi,28
+Mianwali,Attock,32
+Bhakkar,Mianwali,27
+Dera Ghazi Khan,Bhakkar,33
+Rajanpur,Dera Ghazi Khan,32
+Rahim Yar Khan,Rajanpur,31
+Bahawalpur,Rahim Yar Khan,32
+Bahawalnagar,Bahawalpur,27
+Lahore,Bahawalnagar,22
+Narowal,Lahore,33
+Sialkot,Narowal,35
+Gujrat,Sialkot,25
+Jehlum,Gujrat,25
+Rawalpindi,Jehlum,23
+Rawalpindi,Chakwaal,21
+Attock,Chakwaal,22
+Mianwali,Chakwaal,36
+Chakwaal,Jehlum,34
+Khushab,Chakwaal,29
+Khushab,Jehlum,37
+Sargodha,Jehlum,21
+Bhakkar,Khushab,25
+Bhakkar,Jhang,20
+Bhakkar,Layah,38
+Dera Ghazi Khan,Layah,30
+Dera Ghazi Khan,Muzafargarh,20
+Muzafargarh,Rajanpur,22
+Muzafargarh,Rahim Yar Khan,31
+Muzafargarh,Layah,34
+Layah,Jhang,39
+Muzafargarh,Bahawalpur,25
+Muzafargarh,Multan,26
+Muzafargarh,Khanewal,29
+Muzafargarh,Jhang,30
+Jhang,Khanewal,25
+Multan,Bahawalpur,30
+Bahawalpur,Lodhran,39
+Multan,Lodhran,35
+Lodhran,Toba Tek Singh,29
+Bahawalpur,Vehari,28
+Vehari,Toba Tek Singh,30
+Toba Tek Singh,Jhang,31
+Jhang,Khushab,26
+Jhang,Sargodha,26
+Jhang,Hafizabad,24
+Jhang,Faisalabad,37
+Toba Tek Singh,Faisalabad,35
+Khushab,Mianwali,27
+Khushab,Sargodha,25
+Sargodha,Hafizabad,32
+Faisalabad,Hafizabad,27
+Sargodha,Mandi Bahauddin,37
+Faisalabad,Lahore,32
+Hafizabad,Lahore,26
+Hafizabad,Mandi Bahauddin,27
+Mandi Bahauddin,Gujrat,22
+Gujrat,Gujranwala,32
+Mandi Bahauddin,Gujranwala,29
+Gujranwala,Narowal,22
+Jehlum,Mandi Bahauddin,32
+Bahawalnagar,Vehari,28
