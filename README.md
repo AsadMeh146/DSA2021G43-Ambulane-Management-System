@@ -20,7 +20,8 @@ Installation:-
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/AsadMeh146/DSA2021G43-Ambulane-Management-System.git
+
 Open the project in your preferred .NET development environment (e.g., Visual Studio).
 
 Build the application to resolve any missing dependencies and compile the project.
